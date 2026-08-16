@@ -1,28 +1,44 @@
-<h1>Hi, I'm Nicole! <br/><a href="https://github.com/Nicolep02">Programmer</a> <a href="https://www.linkedin.com/in/nicole-phan-713506213//">Computer Science Major</a>
+# Hi, I'm Nicole
 
-<h2> Software Development Projects:</h2>
+### Software Engineer · EECS @ UC Berkeley
 
-- <b>this name ()</b>
-  - [name](link)
+I build things end to end — from low-level systems and distributed backends to full-stack apps. Right now I'm building a production inventory platform as a software contractor while finishing my degree.
 
-<h2> Connect with me:</h2>
+- B.S. in Electrical Engineering & Computer Science at **UC Berkeley** — expected **Dec 2026**
+- Currently building an **ERPNext / Frappe** inventory platform for a 12-store retailer
+- Interested in distributed systems, backend, and full-stack development
+- Bay Area (Fremont, CA)
+- **Open to New Grad Software Engineer roles (2027)**
 
-[<img align="left" alt="NicolePhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NicolePhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[instagram]: https://www.instagram.com/nic._.phan/
-[linkedin]: https://www.linkedin.com/in/nicole-phan-713506213/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Languages:** Python, C/C++, C#, Java, Go, SQL, JavaScript, Dart, Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Libraries:** React, Node.js, HTML/CSS, .NET, Flutter, scikit-learn, NumPy, Pandas
+
+**Tools & Platforms:** Git, Docker, Linux/Bash, PostgreSQL, MySQL, REST APIs, WebRTC, WebSockets, Frappe/ERPNext, GDB
+
+**Concepts:** Object-Oriented Design, Data Structures & Algorithms, Distributed Systems, Concurrency, Unit Testing
+
+---
+
+## Featured Work
+
+**[İstanΠόλις Collaborative](https://www.istanpolis.org/)** — Digital-humanities research platform
+Built Python data-processing pipelines feeding an interactive research platform serving 2,000+ users. Co-creator, UC Berkeley URAP. &nbsp;`Python`
+
+**[ESLearn](https://github.com/Nicolep02/ESLearn)** — Mobile app for immigrant communities
+Led a team of 3 to design and ship a full-stack mobile app during a software engineering internship. &nbsp;`Dart` `Flutter`
+
+**Coursework Aggregator** — Automated coursework scheduling
+Asynchronous C#/.NET service that aggregates coursework from multiple REST APIs and syncs it to Google Calendar. &nbsp;`C#` `.NET`
+<!-- TODO: add the repo link, e.g. [Coursework Aggregator](https://github.com/Nicolep02/your-repo) -->
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/nicolewphan](https://linkedin.com/in/nicolewphan)
+- Email: [nphan24860@gmail.com](mailto:nphan24860@gmail.com)
