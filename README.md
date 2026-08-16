@@ -8,7 +8,7 @@ I build things end to end — from low-level systems and distributed backends to
 - Currently building an **ERPNext / Frappe** inventory platform for a 12-store retailer
 - Interested in distributed systems, backend, and full-stack development
 - Bay Area (Fremont, CA)
-- **Open to New Grad Software Engineer roles (2027)**
+- **Open to New Grad Software Engineer and Software Engineer roles (2027)**
 
 ---
 
